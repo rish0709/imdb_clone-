@@ -65,9 +65,6 @@ Walk through the app's usage and demonstrate its capabilities.
 Submit your project by sharing the Render Hosting link, Github repository link and the video explanation.
 Keep in mind that this is a general guide, and you can add more features or improvements to showcase your creativity and skills. Good luck with this mini IMDB clone app!
 
-If anyone wants to do this directly using my repository then just download this repository, or clone this project using git clone repo-name command by typing the command given below in the command prompt within a folder or the terminal section of your visual-stuio-code or other advanced code editor within a folder:-<br/>
-git clone https://github.com/DataWorker2001/IMDB-Mini-Clone.git<br/>
-and deploy this directly with the changes included like changing the API-Key and designs and also the other CSS, HTML, JS codes for extra features and changed , updated latest seperate unique layouts.
 
 ## Contributions:
 Any contributions are openly welcomed and I am looking forward for those. Anyone can contribute to this repository by forking this repo, I will be very happy and grateful to the contributors. 
